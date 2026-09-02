@@ -1,0 +1,31 @@
+# PDICELAND Audio Credits (CC0 / Public Domain)
+
+All sounds below are CC0 — no attribution required, but credit is appreciated.
+
+## Ambient Music
+- **whispers_in_the_fog.ogg** — "Whispers in the Fog" by Ruhinre  
+  https://opengameart.org/content/whispers-in-the-fog  
+  License: CC0
+
+## Dice Roll
+- **dice-roll.wav** — from "2 dice roll (29 throws)" by RPG  
+  https://opengameart.org/content/2-dice-roll-29-throws  
+  License: CC0
+
+## Demon Vocals (same voice pack — cohesive demon family)
+- **demons/imp.wav** — "DL DEMON SNIGGER 1" from demon voice pack by Tim Rockk  
+- **demons/shade.wav** — "DL DEMON SNARL 2" from demon voice pack by Tim Rockk  
+- **demons/brute.wav** — "DL DEMON GROWL 3" from demon voice pack by Tim Rockk  
+  https://opengameart.org/content/demon-voice  
+  License: CC0
+
+## Victory / Defeat
+- **victory.wav** — "bell_ding2" from Bell dings/chimes (public domain)  
+  https://opengameart.org/content/bell-dingschimes  
+  License: CC0 / Public Domain
+- **defeat.wav** — "Short impact" (424911-impactshort78)  
+  https://opengameart.org/content/short-impact  
+  License: CC0
+- **game-over.ogg** — "abyss" from String and piano horror stings by congusbongus  
+  https://opengameart.org/content/string-and-piano-horror-stings  
+  License: CC0
