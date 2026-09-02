@@ -46,6 +46,17 @@ Regenerate in-game captures (dev server must be running):
 npm run screenshots
 ```
 
+### Git hooks (optional)
+
+To block Cursor `Co-authored-by` trailers on local commits:
+
+```bash
+git config core.hooksPath .githooks
+chmod +x .githooks/prepare-commit-msg
+```
+
+Also disable **Agents → Attribution** in Cursor Settings.
+
 ## Tech stack
 
 - **Vite** + **TypeScript**
